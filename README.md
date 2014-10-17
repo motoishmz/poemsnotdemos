@@ -1,4 +1,1 @@
-poemsnotdemos
-=============
-
-a letter to my friends
+Fork me, edit it, and read it to your friends.
